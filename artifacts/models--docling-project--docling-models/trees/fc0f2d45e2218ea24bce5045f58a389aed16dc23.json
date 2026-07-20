@@ -1,0 +1,43 @@
+{
+ "format_version": 1,
+ "files": {
+  ".gitattributes": {
+   "size": 1905,
+   "blob_id": "575b058b45230d48a06df9b1944f4bd40949db1d"
+  },
+  ".gitignore": {
+   "size": 5180,
+   "blob_id": "9430eb3c89847aa8f80af5c96df3c348fca6da63"
+  },
+  "README.md": {
+   "size": 3413,
+   "blob_id": "887b06ffad8cc669c554c6bebd703ba7bd11a417"
+  },
+  "config.json": {
+   "size": 41,
+   "blob_id": "4dc84c9101238bb955158144660155da99438490"
+  },
+  "model_artifacts/tableformer/accurate/tableformer_accurate.safetensors": {
+   "size": 212758388,
+   "blob_id": "fd1dc0d8a2abf0cf9f5a3b4318ba3a20d5bd37df",
+   "lfs_sha256": "2a7d6c924b3cd12fb99a09280ca9c33a89c5d60b93253617d2e088c1a40374d9",
+   "lfs_size": 212758388,
+   "xet_hash": "b701c9fa680e3e20b0a3014d3a00b000821aa0cdc4826bc4fb4e58048f872de8"
+  },
+  "model_artifacts/tableformer/accurate/tm_config.json": {
+   "size": 7060,
+   "blob_id": "5036aa114b9393f607440cb0f6cc54229b5b30e1"
+  },
+  "model_artifacts/tableformer/fast/tableformer_fast.safetensors": {
+   "size": 145453276,
+   "blob_id": "f6653fe54c4cb33f058203af9ee424debcbcbaf2",
+   "lfs_sha256": "3119563aab5a7c96fda4d621119b63fd8806272b86c30936d15507616422f718",
+   "lfs_size": 145453276,
+   "xet_hash": "b53103be932783a652f518b8305122bd69b70e84ec09b57a5f35937401388725"
+  },
+  "model_artifacts/tableformer/fast/tm_config.json": {
+   "size": 7060,
+   "blob_id": "d02c5889d288b8baefd42e9e4da094f0cea07bbe"
+  }
+ }
+}
